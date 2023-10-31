@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>cascinasantarita</title>
-    <link href="https://riflash.github.io/santarita-it/feed.xml" rel="self" />
-    <link href="https://riflash.github.io/santarita-it" />
+    <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
+    <link href="https://santarita-it.pages.dev" />
     <updated>2023-09-30T14:21:21+02:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
-    <id>https://riflash.github.io/santarita-it</id>
+    <id>https://santarita-it.pages.dev</id>
 
     <entry>
         <title>test 3 colonne</title>
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://riflash.github.io/santarita-it/test-3-colonne.html"/>
-        <id>https://riflash.github.io/santarita-it/test-3-colonne.html</id>
+        <link href="https://santarita-it.pages.dev/test-3-colonne.html"/>
+        <id>https://santarita-it.pages.dev/test-3-colonne.html</id>
 
         <updated>2023-09-30T14:21:21+02:00</updated>
             <summary>
@@ -38,8 +38,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://riflash.github.io/santarita-it/contatti.html"/>
-        <id>https://riflash.github.io/santarita-it/contatti.html</id>
+        <link href="https://santarita-it.pages.dev/contatti.html"/>
+        <id>https://santarita-it.pages.dev/contatti.html</id>
 
         <updated>2023-09-29T18:27:40+02:00</updated>
             <summary>
@@ -78,8 +78,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://riflash.github.io/santarita-it/listino-2.html"/>
-        <id>https://riflash.github.io/santarita-it/listino-2.html</id>
+        <link href="https://santarita-it.pages.dev/listino-2.html"/>
+        <id>https://santarita-it.pages.dev/listino-2.html</id>
 
         <updated>2023-09-29T16:52:55+02:00</updated>
             <summary>
@@ -225,8 +225,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://riflash.github.io/santarita-it/listino-prezzi.html"/>
-        <id>https://riflash.github.io/santarita-it/listino-prezzi.html</id>
+        <link href="https://santarita-it.pages.dev/listino-prezzi.html"/>
+        <id>https://santarita-it.pages.dev/listino-prezzi.html</id>
 
         <updated>2023-09-29T15:17:55+02:00</updated>
             <summary>
@@ -402,8 +402,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html"/>
-        <id>https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html</id>
+        <link href="https://santarita-it.pages.dev/vendita-di-carni-salumi-formaggi-e-polleria.html"/>
+        <id>https://santarita-it.pages.dev/vendita-di-carni-salumi-formaggi-e-polleria.html</id>
 
         <updated>2023-09-29T15:09:09+02:00</updated>
             <summary>
