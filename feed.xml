@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>cascinasantarita</title>
+    <link href="https://riflash.github.io/santarita-it/feed.xml" rel="self" />
+    <link href="https://riflash.github.io/santarita-it" />
+    <updated>2023-09-30T14:21:21+02:00</updated>
+    <author>
+        <name>cascinasantarita</name>
+    </author>
+    <id>https://riflash.github.io/santarita-it</id>
+
+    <entry>
+        <title>test 3 colonne</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://riflash.github.io/santarita-it/test-3-colonne.html"/>
+        <id>https://riflash.github.io/santarita-it/test-3-colonne.html</id>
+
+        <updated>2023-09-30T14:21:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex-container">
+<div class="flex-items">test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 </div>
+<div class="flex-items">test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  </div>
+<div class="flex-items">test colonna 3 test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3  </div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contatti</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://riflash.github.io/santarita-it/contatti.html"/>
+        <id>https://riflash.github.io/santarita-it/contatti.html</id>
+
+        <updated>2023-09-29T18:27:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="agro-alimentare-santa-rita-srl">
+      AGRO ALIMENTARE SANTA RITA s.r.l
+    </h2>
+
+  <p>
+    <br>Via Barni, 18/1
+<br>26010 Dovera (CR)
+  </p>
+
+  <p>
+    Tel. 0373 94089
+<br>Cell. 333 7961024
+<br>Fax. 0373 978285
+<br>
+<br>e-mail: <a href="mailto:info@cascinasantarita.it">info@cascinasantarita.it</a>
+  </p>
+
+  <p>
+    <div class="post__iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5606.441430961442!2d9.513264!3d45.36454100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478131f05f15a60d%3A0xca8d37ea94a7ae8c!2sCascina%20Santa%20Rita!5e0!3m2!1sit!2sus!4v1696003512002!5m2!1sit!2sus" width="800" height="600" style="border-width: 0px; border-style: initial;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Listino 2</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://riflash.github.io/santarita-it/listino-2.html"/>
+        <id>https://riflash.github.io/santarita-it/listino-2.html</id>
+
+        <updated>2023-09-29T16:52:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="duecolonne">
+<div class="layout">
+<table class="align-left" style="border-collapse: collapse; width: 90%; border-color: #ffffff; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">
+<h2><strong>Manzo</strong></h2>
+</td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">magatello</td>
+<td style="width: 49.9288%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">muscolo</td>
+<td style="width: 49.9288%;">€ 12,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">hamburger cad.</td>
+<td style="width: 49.9288%;">€ 1,00</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">ossi buchi</td>
+<td style="width: 49.9288%;">€ 9,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">polpa famiglia</td>
+<td style="width: 49.9288%;">€ 11,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">costate</td>
+<td style="width: 49.9288%;">€ 19,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">roastbeef pezzo intero</td>
+<td style="width: 49.9288%;">€ 19,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">roastbeef a fette</td>
+<td style="width: 49.9288%;">€ 21,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">polpa scelta pezzo intero</td>
+<td style="width: 49.9288%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">polpa scelta a fette</td>
+<td style="width: 49.9288%;">€ 18,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">filetto pezzo intero</td>
+<td style="width: 49.9288%;">€ 29,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">filetto a fette</td>
+<td style="width: 49.9288%;">€ 29,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">scamone pezzo intero</td>
+<td style="width: 49.9288%;">€ 18,90</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">scamone a fette</td>
+<td style="width: 49.9288%;">€ 19,90</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 90%; height: 90%; border-color: #ffffff; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 50.0161%;">
+<h2>Vitello</h2>
+</td>
+<td style="width: 50.0161%;"> </td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">filetto p.int.</td>
+<td style="width: 50.0161%;">€ 25,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">nodini</td>
+<td style="width: 50.0161%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">ossi buchi</td>
+<td style="width: 50.0161%;">€ 16,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">arrosto reale</td>
+<td style="width: 50.0161%;">€ 15,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">pesce/spinaccino</td>
+<td style="width: 50.0161%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">fusello/cap prete</td>
+<td style="width: 50.0161%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">fesa scelta pezzo intero</td>
+<td style="width: 50.0161%;">€ 19,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">fesa scelta a fette</td>
+<td style="width: 50.0161%;">€ 20,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">spalla</td>
+<td style="width: 50.0161%;">€ 16,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">punta con osso</td>
+<td style="width: 50.0161%;">€ 8,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">punta arrotolata</td>
+<td style="width: 50.0161%;">€ 10,90</td>
+</tr>
+<tr>
+<td style="width: 50.0161%;">sottofesa</td>
+<td style="width: 50.0161%;">€ 17,90</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Listino prezzi</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://riflash.github.io/santarita-it/listino-prezzi.html"/>
+        <id>https://riflash.github.io/santarita-it/listino-prezzi.html</id>
+
+        <updated>2023-09-29T15:17:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    right
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <div class="duecolonne">
+<br>  
+<br>  <div class="layout">
+<br>    <p class="col col-main">
+<br></p><h3>Manzo</h3><p class="col col-main"><br><br></p><table border="0" cellpadding="1" cellspacing="1">
+	<tbody>
+		<tr>
+			<td>magatello</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>muscolo</td>
+			<td>€ 12,90</td>
+		</tr>
+		<tr>
+			<td>hamburger cad.</td>
+			<td>€ 1,00</td>
+		</tr>
+		<tr>
+			<td>ossi buchi</td>
+			<td>€ 9,90</td>
+		</tr>
+		<tr>
+			<td>polpa famiglia</td>
+			<td>€ 11,90</td>
+		</tr>
+		<tr>
+			<td>costate</td>
+			<td>€ 19,90</td>
+		</tr>
+		<tr>
+			<td>roastbeef pezzo intero</td>
+			<td>€ 19,90</td>
+		</tr>
+		<tr>
+			<td>roastbeef a fette</td>
+			<td>€ 21,90</td>
+		</tr>
+		<tr>
+			<td>polpa scelta pezzo intero</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>polpa scelta a fette</td>
+			<td>€ 18,90</td>
+		</tr>
+		<tr>
+			<td>filetto pezzo intero</td>
+			<td>€ 29,90</td>
+		</tr>
+		<tr>
+			<td>filetto a fette</td>
+			<td>€ 29,90</td>
+		</tr>
+		<tr>
+			<td>scamone pezzo intero</td>
+			<td>€ 18,90</td>
+		</tr>
+		<tr>
+			<td>scamone a fette</td>
+			<td>€ 19,90</td>
+		</tr>
+		<tr>
+			<td>macinata per sugo</td>
+			<td>€ 7,90</td>
+		</tr>
+		<tr>
+			<td>cotolette/pizzaiola</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>spinaccino/pesc/fusello</td>
+			<td>€ 13,90</td>
+		</tr>
+		<tr>
+			<td>fiorentine</td>
+			<td>€ 19,90</td>
+		</tr>
+		<tr>
+			<td>spezzatino</td>
+			<td>€ 12,90</td>
+		</tr>
+		<tr>
+			<td>sottofesa</td>
+			<td>€ 17,90</td>
+		</tr>
+	</tbody>
+</table><p class="col col-main"><br></p><h3><br>
+<br>Salumi in trancio al Kg</h3><p class="col col-main"><br><br></p><table border="0" cellpadding="1" cellspacing="1">
+	<tbody>
+		<tr>
+			<td>cotechini</td>
+			<td>€ 9,90</td>
+		</tr>
+		<tr>
+			<td>salamelle</td>
+			<td>€ 9,90</td>
+		</tr>
+		<tr>
+			<td>salame</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>salamelle stagionate</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>salsiccia</td>
+			<td>€ 9,90</td>
+		</tr>
+		<tr>
+			<td>pancetta legata</td>
+			<td>€ 14,90</td>
+		</tr>
+		<tr>
+			<td>coppa - spek</td>
+			<td>€ 18,90</td>
+		</tr>
+		<tr>
+			<td>prosciutto cotto</td>
+			<td>€ 11,90</td>
+		</tr>
+		<tr>
+			<td>prosc. crudo dis.</td>
+			<td>€ 17,90</td>
+		</tr>
+		<tr>
+			<td>bresaola</td>
+			<td>€ 25,90</td>
+		</tr>
+		<tr>
+			<td>bologna</td>
+			<td>€ 7,90</td>
+		</tr>
+		<tr>
+			<td>salame cotto</td>
+			<td>€ 12,90</td>
+		</tr>
+		<tr>
+			<td>pancetta affumicata</td>
+			<td>€ 16,90</td>
+		</tr>
+		<tr>
+			<td>fesa tacchino</td>
+			<td>€ 15,90</td>
+		</tr>
+	</tbody>
+</table><p class="col col-main">
+<br> 
+<br>
+<br>    </p>
+<br>    <p class="col col-complementary" role="complementary">
+<br>      <strong>right</strong><br> 
+<br>    </p>  
+<br>  </div></div>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Vendita di carni, salumi, formaggi e polleria</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html"/>
+        <id>https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html</id>
+
+        <updated>2023-09-29T15:09:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <div class="duecolonne"><div class="layout"><p class="col col-main">A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria. Lo spaccio carni Santa Rita è un’azienda che si occupa della macellazione, lavorazione e commercio di carni fresche.<br> 
+<br>
+<br>    </p>
+<p class="col col-complementary" role="complementary">Parte del bestiame che macelliamo da destinare al nostro negozio proviene dalla nostra azienda agricola Bosia F.lli di Bascapè in provincia di Pavia e da altre cascine limitrofe.
+<br>Su prenotazione è possibile ritirare la spesa confezionata secondo le vostre esigenze.
+<br>Le ordinazioni possono essere effettuate telefonicamente, tramite fax o mail lasciandoci un vostro recapito telefonico.<br> 
+<br>    </p>  
+<br>  </div></div>
+  </p>
+
+  <p>
+    
+  </p>
+
+    <h2 id="venite-nel-nostro-negozio-e-troverete-cortesia-genuinita-ed-un-ottimo-rapporto-qualitaprezzo">
+      Venite nel nostro negozio e troverete cortesia, genuinità ed un ottimo rapporto qualità/prezzo.
+    </h2>
+
+    <h3 id="si-accettano-ticketlessbrgreater">
+      Si accettano ticket:<br>
+    </h3>
+
+  <ul>
+    <li>PellegriniCard</li><li>PassLunch</li><li>Day</li><li>Qui!</li><li>Ristomat</li><li>TicketGemeaz.</li><li>Ticket Restaurant</li><li>City time</li><li>Buon Chef</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

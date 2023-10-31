@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://riflash.github.io/santarita-it/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://riflash.github.io/santarita-it/</loc>
+</url>
+<url>
+<loc>https://riflash.github.io/santarita-it/contatti.html</loc>
+<lastmod>2023-09-29T18:27:40+02:00</lastmod>
+</url>
+<url>
+<loc>https://riflash.github.io/santarita-it/listino-2.html</loc>
+<lastmod>2023-09-29T16:52:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://riflash.github.io/santarita-it/listino-prezzi.html</loc>
+<lastmod>2023-09-29T15:17:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://riflash.github.io/santarita-it/test-3-colonne.html</loc>
+<lastmod>2023-09-30T14:21:21+02:00</lastmod>
+</url>
+<url>
+<loc>https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html</loc>
+<lastmod>2023-09-29T15:09:09+02:00</lastmod>
+</url>
+</urlset>

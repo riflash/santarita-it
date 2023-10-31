@@ -1,0 +1,84 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "cascinasantarita",
+    "description": "",
+    "home_page_url": "https://riflash.github.io/santarita-it",
+    "feed_url": "https://riflash.github.io/santarita-it/feed.json",
+    "user_comment": "",
+    "icon": "https://riflash.github.io/santarita-it/media/website/logo-santarita.svg",
+    "author": {
+        "name": "cascinasantarita"
+    },
+    "items": [
+        {
+            "id": "https://riflash.github.io/santarita-it/test-3-colonne.html",
+            "url": "https://riflash.github.io/santarita-it/test-3-colonne.html",
+            "title": "test 3 colonne",
+            "summary": "test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna&hellip;",
+            "content_html": "<div class=\"flex-container\">\n<div class=\"flex-items\">test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 </div>\n<div class=\"flex-items\">test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  </div>\n<div class=\"flex-items\">test colonna 3 test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3  </div>\n</div>",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-30T14:19:46+02:00",
+            "date_modified": "2023-09-30T14:21:21+02:00"
+        },
+        {
+            "id": "https://riflash.github.io/santarita-it/contatti.html",
+            "url": "https://riflash.github.io/santarita-it/contatti.html",
+            "title": "Contatti",
+            "summary": "AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;",
+            "content_html": "\n    <h2 id=\"agro-alimentare-santa-rita-srl\">\n      AGRO ALIMENTARE SANTA RITA s.r.l\n    </h2>\n\n  <p>\n    <br>Via Barni, 18/1\n<br>26010 Dovera (CR)\n  </p>\n\n  <p>\n    Tel. 0373 94089\n<br>Cell. 333 7961024\n<br>Fax. 0373 978285\n<br>\n<br>e-mail: <a href=\"mailto:info@cascinasantarita.it\">info@cascinasantarita.it</a>\n  </p>\n\n  <p>\n    <div class=\"post__iframe\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5606.441430961442!2d9.513264!3d45.36454100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478131f05f15a60d%3A0xca8d37ea94a7ae8c!2sCascina%20Santa%20Rita!5e0!3m2!1sit!2sus!4v1696003512002!5m2!1sit!2sus\" width=\"800\" height=\"600\" style=\"border-width: 0px; border-style: initial;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>\n  </p>",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-29T17:53:19+02:00",
+            "date_modified": "2023-09-29T18:27:40+02:00"
+        },
+        {
+            "id": "https://riflash.github.io/santarita-it/listino-2.html",
+            "url": "https://riflash.github.io/santarita-it/listino-2.html",
+            "title": "Listino 2",
+            "summary": "Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate&hellip;",
+            "content_html": "<div class=\"duecolonne\">\n<div class=\"layout\">\n<table class=\"align-left\" style=\"border-collapse: collapse; width: 90%; border-color: #ffffff; border-style: none;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">\n<h2><strong>Manzo</strong></h2>\n</td>\n<td style=\"width: 49.9288%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">magatello</td>\n<td style=\"width: 49.9288%;\">€ 17,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">muscolo</td>\n<td style=\"width: 49.9288%;\">€ 12,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">hamburger cad.</td>\n<td style=\"width: 49.9288%;\">€ 1,00</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">ossi buchi</td>\n<td style=\"width: 49.9288%;\">€ 9,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">polpa famiglia</td>\n<td style=\"width: 49.9288%;\">€ 11,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">costate</td>\n<td style=\"width: 49.9288%;\">€ 19,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">roastbeef pezzo intero</td>\n<td style=\"width: 49.9288%;\">€ 19,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">roastbeef a fette</td>\n<td style=\"width: 49.9288%;\">€ 21,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">polpa scelta pezzo intero</td>\n<td style=\"width: 49.9288%;\">€ 17,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">polpa scelta a fette</td>\n<td style=\"width: 49.9288%;\">€ 18,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">filetto pezzo intero</td>\n<td style=\"width: 49.9288%;\">€ 29,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">filetto a fette</td>\n<td style=\"width: 49.9288%;\">€ 29,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">scamone pezzo intero</td>\n<td style=\"width: 49.9288%;\">€ 18,90</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">scamone a fette</td>\n<td style=\"width: 49.9288%;\">€ 19,90</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 90%; height: 90%; border-color: #ffffff; border-style: none;\">\n<tbody>\n<tr>\n<td style=\"width: 50.0161%;\">\n<h2>Vitello</h2>\n</td>\n<td style=\"width: 50.0161%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">filetto p.int.</td>\n<td style=\"width: 50.0161%;\">€ 25,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">nodini</td>\n<td style=\"width: 50.0161%;\">€ 17,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">ossi buchi</td>\n<td style=\"width: 50.0161%;\">€ 16,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">arrosto reale</td>\n<td style=\"width: 50.0161%;\">€ 15,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">pesce/spinaccino</td>\n<td style=\"width: 50.0161%;\">€ 17,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">fusello/cap prete</td>\n<td style=\"width: 50.0161%;\">€ 17,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">fesa scelta pezzo intero</td>\n<td style=\"width: 50.0161%;\">€ 19,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">fesa scelta a fette</td>\n<td style=\"width: 50.0161%;\">€ 20,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">spalla</td>\n<td style=\"width: 50.0161%;\">€ 16,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">punta con osso</td>\n<td style=\"width: 50.0161%;\">€ 8,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">punta arrotolata</td>\n<td style=\"width: 50.0161%;\">€ 10,90</td>\n</tr>\n<tr>\n<td style=\"width: 50.0161%;\">sottofesa</td>\n<td style=\"width: 50.0161%;\">€ 17,90</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-29T15:20:55+02:00",
+            "date_modified": "2023-09-29T16:52:55+02:00"
+        },
+        {
+            "id": "https://riflash.github.io/santarita-it/listino-prezzi.html",
+            "url": "https://riflash.github.io/santarita-it/listino-prezzi.html",
+            "title": "Listino prezzi",
+            "summary": "right",
+            "content_html": "\n  <p>\n    <div class=\"duecolonne\">\n<br>  \n<br>  <div class=\"layout\">\n<br>    <p class=\"col col-main\">\n<br></p><h3>Manzo</h3><p class=\"col col-main\"><br><br></p><table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>magatello</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>muscolo</td>\n\t\t\t<td>€ 12,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>hamburger cad.</td>\n\t\t\t<td>€ 1,00</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>ossi buchi</td>\n\t\t\t<td>€ 9,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>polpa famiglia</td>\n\t\t\t<td>€ 11,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>costate</td>\n\t\t\t<td>€ 19,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>roastbeef pezzo intero</td>\n\t\t\t<td>€ 19,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>roastbeef a fette</td>\n\t\t\t<td>€ 21,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>polpa scelta pezzo intero</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>polpa scelta a fette</td>\n\t\t\t<td>€ 18,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>filetto pezzo intero</td>\n\t\t\t<td>€ 29,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>filetto a fette</td>\n\t\t\t<td>€ 29,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>scamone pezzo intero</td>\n\t\t\t<td>€ 18,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>scamone a fette</td>\n\t\t\t<td>€ 19,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>macinata per sugo</td>\n\t\t\t<td>€ 7,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>cotolette/pizzaiola</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>spinaccino/pesc/fusello</td>\n\t\t\t<td>€ 13,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>fiorentine</td>\n\t\t\t<td>€ 19,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>spezzatino</td>\n\t\t\t<td>€ 12,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>sottofesa</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t</tbody>\n</table><p class=\"col col-main\"><br></p><h3><br>\n<br>Salumi in trancio al Kg</h3><p class=\"col col-main\"><br><br></p><table border=\"0\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>cotechini</td>\n\t\t\t<td>€ 9,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>salamelle</td>\n\t\t\t<td>€ 9,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>salame</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>salamelle stagionate</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>salsiccia</td>\n\t\t\t<td>€ 9,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>pancetta legata</td>\n\t\t\t<td>€ 14,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>coppa - spek</td>\n\t\t\t<td>€ 18,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>prosciutto cotto</td>\n\t\t\t<td>€ 11,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>prosc. crudo dis.</td>\n\t\t\t<td>€ 17,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>bresaola</td>\n\t\t\t<td>€ 25,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>bologna</td>\n\t\t\t<td>€ 7,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>salame cotto</td>\n\t\t\t<td>€ 12,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>pancetta affumicata</td>\n\t\t\t<td>€ 16,90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>fesa tacchino</td>\n\t\t\t<td>€ 15,90</td>\n\t\t</tr>\n\t</tbody>\n</table><p class=\"col col-main\">\n<br> \n<br>\n<br>    </p>\n<br>    <p class=\"col col-complementary\" role=\"complementary\">\n<br>      <strong>right</strong><br> \n<br>    </p>  \n<br>  </div></div>\n  </p>",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-29T15:17:55+02:00",
+            "date_modified": "2023-09-29T15:17:55+02:00"
+        },
+        {
+            "id": "https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html",
+            "url": "https://riflash.github.io/santarita-it/vendita-di-carni-salumi-formaggi-e-polleria.html",
+            "title": "Vendita di carni, salumi, formaggi e polleria",
+            "summary": "A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da&hellip;",
+            "content_html": "\n  <p>\n    <div class=\"duecolonne\"><div class=\"layout\"><p class=\"col col-main\">A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria. Lo spaccio carni Santa Rita è un’azienda che si occupa della macellazione, lavorazione e commercio di carni fresche.<br> \n<br>\n<br>    </p>\n<p class=\"col col-complementary\" role=\"complementary\">Parte del bestiame che macelliamo da destinare al nostro negozio proviene dalla nostra azienda agricola Bosia F.lli di Bascapè in provincia di Pavia e da altre cascine limitrofe.\n<br>Su prenotazione è possibile ritirare la spesa confezionata secondo le vostre esigenze.\n<br>Le ordinazioni possono essere effettuate telefonicamente, tramite fax o mail lasciandoci un vostro recapito telefonico.<br> \n<br>    </p>  \n<br>  </div></div>\n  </p>\n\n  <p>\n    \n  </p>\n\n    <h2 id=\"venite-nel-nostro-negozio-e-troverete-cortesia-genuinita-ed-un-ottimo-rapporto-qualitaprezzo\">\n      Venite nel nostro negozio e troverete cortesia, genuinità ed un ottimo rapporto qualità/prezzo.\n    </h2>\n\n    <h3 id=\"si-accettano-ticketlessbrgreater\">\n      Si accettano ticket:<br>\n    </h3>\n\n  <ul>\n    <li>PellegriniCard</li><li>PassLunch</li><li>Day</li><li>Qui!</li><li>Ristomat</li><li>TicketGemeaz.</li><li>Ticket Restaurant</li><li>City time</li><li>Buon Chef</li>\n  </ul>",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-29T14:13:53+02:00",
+            "date_modified": "2023-09-29T15:09:09+02:00"
+        }
+    ]
+}

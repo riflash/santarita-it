@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://riflash.github.io/santarita-it/sitemap.xml
