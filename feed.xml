@@ -3,12 +3,37 @@
     <title>cascinasantarita</title>
     <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
     <link href="https://santarita-it.pages.dev" />
-    <updated>2023-10-31T13:54:11+01:00</updated>
+    <updated>2023-10-31T19:35:55+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
     <id>https://santarita-it.pages.dev</id>
 
+    <entry>
+        <title>home</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://santarita-it.pages.dev/home.html"/>
+        <id>https://santarita-it.pages.dev/home.html</id>
+
+        <updated>2023-10-31T19:35:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria. Lo spaccio carni&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="duecolonne">
+<div class="layout">
+<p class="col col-main">A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria. Lo spaccio carni Santa Rita è un’azienda che si occupa della macellazione, lavorazione e commercio di carni fresche.</p>
+<p class="col col-complementary" role="complementary">Parte del bestiame che macelliamo da destinare al nostro negozio proviene dalla nostra azienda agricola Bosia F.lli di Bascapè in provincia di Pavia e da altre cascine limitrofe.<br>Su prenotazione è possibile ritirare la spesa confezionata secondo le vostre esigenze.<br>Le ordinazioni possono essere effettuate telefonicamente, tramite fax o mail lasciandoci un vostro recapito telefonico.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Shop</title>
         <author>
@@ -77,7 +102,7 @@
         <updated>2023-09-30T14:21:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna&hellip;
+                    test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -101,7 +126,7 @@
         <updated>2023-09-29T18:27:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;
+                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285 e-mail: info@cascinasantarita.it
                 ]]>
             </summary>
         <content type="html">
@@ -141,7 +166,7 @@
         <updated>2023-09-29T16:52:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate&hellip;
+                    Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate € 19,90 roastbeef pezzo intero € 19,90 roastbeef a fette € 21,90 polpa scelta pezzo intero € 17,90 polpa scelta a fette € 18,90 filetto&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -465,7 +490,7 @@
         <updated>2023-09-29T15:09:09+02:00</updated>
             <summary>
                 <![CDATA[
-                    A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da&hellip;
+                    A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita. La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria. Lo spaccio carni&hellip;
                 ]]>
             </summary>
         <content type="html">
