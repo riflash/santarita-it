@@ -3,7 +3,7 @@
     <title>cascinasantarita</title>
     <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
     <link href="https://santarita-it.pages.dev" />
-    <updated>2023-11-01T16:00:25+01:00</updated>
+    <updated>2023-11-01T17:02:19+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -19,44 +19,33 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-01T16:00:25+01:00</updated>
+        <updated>2023-11-01T17:02:19+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" alt="" />
-                    Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente almeno un giorno prima del ritiro. g. 800 bistecche g. 600 lonza (per cotolette o scaloppine) g. 800 petti di pollo g. 800 arrosto g. 600&hellip;
+                    Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente almeno un giorno prima del ritiro. € 75,00 - kg. 7 (circa) g. 800 bistecche g. 600 lonza (per cotolette o scaloppine) g. 800 petti di pollo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>
-<h3>€ 75,00 - kg. 7 (circa)</h3>
-<ul>
-<li>g. 800 bistecche</li>
-<li>g. 600 lonza (per cotolette o scaloppine)</li>
-<li>g. 800 petti di pollo</li>
-<li>g. 800 arrosto</li>
-<li>g. 600 cotolette-pizzaiola-scalop.</li>
-<li>g. 800 macinata per sugo</li>
-<li>n° 5 svizzere</li>
-<li>n° 1 coscia pollo</li>
-<li>g. 500 salsiccia
-<ol>
-<li class="layout">
-<h3>€ 75,00 - kg. 7 (circa)</h3>
-<p> </p>
-<ul style="list-style-type: square;">
-<li>g. 800 bistecche</li>
-<li>g. 600 lonza (per cotolette o scaloppine)</li>
-<li>g. 800 petti di pollo</li>
-<li>g. 800 arrosto</li>
-<li>g. 600 cotolette-pizzaiola-scalop.</li>
-<li>g. 800 macinata per sugo</li>
-<li>n° 5 svizzere</li>
-<li>n° 1 coscia pollo</li>
-<li>g. 500 salsiccia</li>
-</ul>
-<h3>€ 75,00 - kg. 7 (circa)<br><br></h3>
+<div class="duecolonne">
+<div class="layout">
+<table style="border-collapse: collapse; width: 90%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h4> </h4>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<h4>€ 75,00 - kg. 7 (circa)</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">
 <ul>
 <li>g. 800 bistecche</li>
 <li>g. 600 lonza (per cotolette o scaloppine)</li>
@@ -67,11 +56,101 @@
 <li>n° 5 svizzere</li>
 <li>n° 1 coscia pollo</li>
 <li>g. 500 salsiccia</li>
+<li>-</li>
 </ul>
-</li>
-</ol>
-</li>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h4> </h4>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8575%;">
+<h4>€ 150,00 - kg. 11 (circa)</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8575%;">
+<ul>
+<li>1 kg. macinata per sugo</li>
+<li>1 kg. lonza (per cotolette o scaloppine)</li>
+<li>1 kg. petti di pollo</li>
+<li>1 kg. pizzaiola o involtini</li>
+<li>1 kg. arrosto</li>
+<li>1 kg. bistecche</li>
+<li>1 kg. costate roastbeef</li>
+<li>1 kg. lesso o brasato</li>
+<li>1 kg. magatello vitellone</li>
+<li>1 kg. svizzere</li>
+<li>1 kg. salsiccia</li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="duecolonne">
+<div class="layout">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h4>€ 100,00 - kg. 9 (circa)</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8575%;">
+<ul>
+<li>g. 800 salsiccia</li>
+<li>g. 800 bistecche</li>
+<li>g. 800 braciole</li>
+<li>g. 800 lonza (per cotolette o scaloppine)</li>
+<li>g. 800 brasato e lesso</li>
+<li>g. 800 svizzere</li>
+<li>g. 800 arrosto</li>
+<li>g. 800 macinata per sugo</li>
+<li>g. 800 petti di pollo</li>
+<li>g. 800  coscette di pollo</li>
+<li>g. 800 fettine x pizzaiola e involtini</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h4>€ 200,00 - kg. 18 (circa)</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8575%;">
+<ul>
+<li>1,600 kg. salsiccia</li>
+<li>1,600 kg. bistecche</li>
+<li>1,600 kg. braciole</li>
+<li>1,600 kg. lonza (per cotolette o scaloppine)</li>
+<li>1,600 kg. brasato e lesso</li>
+<li>1,600 kg. svizzere</li>
+<li>1,600 kg. arrosto</li>
+<li>1,600 kg. macinata per sugo</li>
+<li>1,600 kg. petti di pollo</li>
+<li>1,600 kg. coscette di pollo</li>
+<li>1,600 kg. fettine x pizz. e involtini</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
             ]]>
         </content>
     </entry>
