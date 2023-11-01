@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://santarita-it.pages.dev/offerta-risparmio.html",
+            "url": "https://santarita-it.pages.dev/offerta-risparmio.html",
+            "title": "Offerta risparmio",
+            "summary": "Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente almeno un giorno prima del ritiro. g. 800 bistecche g. 600 lonza (per cotolette o scaloppine) g. 800 petti di pollo g. 800 arrosto g. 600&hellip;",
+            "content_html": "<p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>\n<h3>€ 75,00 - kg. 7 (circa)</h3>\n<ul>\n<li>g. 800 bistecche</li>\n<li>g. 600 lonza (per cotolette o scaloppine)</li>\n<li>g. 800 petti di pollo</li>\n<li>g. 800 arrosto</li>\n<li>g. 600 cotolette-pizzaiola-scalop.</li>\n<li>g. 800 macinata per sugo</li>\n<li>n° 5 svizzere</li>\n<li>n° 1 coscia pollo</li>\n<li>g. 500 salsiccia\n<ol>\n<li class=\"layout\">\n<h3>€ 75,00 - kg. 7 (circa)</h3>\n<p> </p>\n<ul style=\"list-style-type: square;\">\n<li>g. 800 bistecche</li>\n<li>g. 600 lonza (per cotolette o scaloppine)</li>\n<li>g. 800 petti di pollo</li>\n<li>g. 800 arrosto</li>\n<li>g. 600 cotolette-pizzaiola-scalop.</li>\n<li>g. 800 macinata per sugo</li>\n<li>n° 5 svizzere</li>\n<li>n° 1 coscia pollo</li>\n<li>g. 500 salsiccia</li>\n</ul>\n<h3>€ 75,00 - kg. 7 (circa)<br><br></h3>\n<ul>\n<li>g. 800 bistecche</li>\n<li>g. 600 lonza (per cotolette o scaloppine)</li>\n<li>g. 800 petti di pollo</li>\n<li>g. 800 arrosto</li>\n<li>g. 600 cotolette-pizzaiola-scalop.</li>\n<li>g. 800 macinata per sugo</li>\n<li>n° 5 svizzere</li>\n<li>n° 1 coscia pollo</li>\n<li>g. 500 salsiccia</li>\n</ul>\n</li>\n</ol>\n</li>\n</ul>",
+            "image": "https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+                   "offerte"
+            ],
+            "date_published": "2023-11-01T15:17:58+01:00",
+            "date_modified": "2023-11-01T16:00:25+01:00"
+        },
+        {
+            "id": "https://santarita-it.pages.dev/offerta-mista.html",
+            "url": "https://santarita-it.pages.dev/offerta-mista.html",
+            "title": "Offerta mista",
+            "summary": "Tutto a € 17,00 ½kg. macinata n° 4 svizzere n° 4 braciole 4 etti salsiccia",
+            "content_html": "<h3>Tutto a € 17,00</h3>\n<ul>\n<li>½kg. macinata</li>\n<li>n° 4 svizzere</li>\n<li>n° 4 braciole</li>\n<li>4 etti salsiccia</li>\n</ul>",
+            "image": "https://santarita-it.pages.dev/media/posts/9/santarita_spiedino.jpg",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+                   "offerte"
+            ],
+            "date_published": "2023-11-01T15:17:09+01:00",
+            "date_modified": "2023-11-01T15:17:09+01:00"
+        },
+        {
+            "id": "https://santarita-it.pages.dev/offerte-per-grigliata.html",
+            "url": "https://santarita-it.pages.dev/offerte-per-grigliata.html",
+            "title": "Offerte per grigliata",
+            "summary": "Tutto a € 4,00 n° 1 salamella o salsiccia n° 1 braciola 2 pz. puntine o coppa",
+            "content_html": "<h3>Tutto a € 4,00</h3>\n<ul>\n<li>n° 1 salamella o salsiccia</li>\n<li>n° 1 braciola</li>\n<li>2 pz. puntine o coppa</li>\n</ul>",
+            "image": "https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg",
+            "author": {
+                "name": "cascinasantarita"
+            },
+            "tags": [
+                   "offerte"
+            ],
+            "date_published": "2023-11-01T15:14:39+01:00",
+            "date_modified": "2023-11-01T15:16:21+01:00"
+        },
+        {
             "id": "https://santarita-it.pages.dev/home.html",
             "url": "https://santarita-it.pages.dev/home.html",
             "title": "home",
