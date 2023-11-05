@@ -3,7 +3,7 @@
     <title>cascinasantarita</title>
     <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
     <link href="https://santarita-it.pages.dev" />
-    <updated>2023-11-04T15:38:02+01:00</updated>
+    <updated>2023-11-05T17:45:24+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -19,26 +19,21 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-02T17:31:35+01:00</updated>
+        <updated>2023-11-05T17:16:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" alt="" />
-                    Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente almeno un giorno prima del ritiro. € 200,00 - kg. 18 (circa) 1,600 kg. salsiccia 1,600 kg. bistecche 1,600 kg. braciole 1,600 kg. lonza (per cotolette o&hellip;
+                    Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente almeno un giorno prima del ritiro. € 75,00 - kg. 7 (circa) g. 800 bistecche g. 600 lonza (per cotolette o scaloppine) g. 800 petti di pollo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>
-<div class="duecolonne">
-<div class="layout">
+<div class="flex-container">
+<div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 100%;">
-<p> </p>
-</td>
-</tr>
 <tr>
 <td style="width: 100%;">
 <h4>€ 75,00 - kg. 7 (circa)</h4>
@@ -61,51 +56,13 @@
 </tr>
 </tbody>
 </table>
+</div>
+<div class="flex-item-right">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 99.8575%;">
-<h4>€ 150,00 - kg. 11 (circa)</h4>
-</td>
-</tr>
-<tr>
-<td style="width: 99.8575%;">
-<ul>
-<li>1 kg. macinata per sugo</li>
-<li>1 kg. lonza (per cotolette o scaloppine)</li>
-<li>1 kg. petti di pollo</li>
-<li>1 kg. pizzaiola o involtini</li>
-<li>1 kg. arrosto</li>
-<li>1 kg. bistecche</li>
-<li>1 kg. costate roastbeef</li>
-<li>1 kg. lesso o brasato</li>
-<li>1 kg. magatello vitellone</li>
-<li>1 kg. svizzere</li>
-<li>1 kg. salsiccia</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div class="duecolonne">
-<div class="layout">
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
-<tbody>
-<tr>
-<td style="width: 99.8575%;">
-<p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 99.8575%;">
-<h4>€ 100,00 - kg. 9 (circa)</h4>
+<h4>€ 100,00 - kg. 9 (circa)</h4>
 </td>
 </tr>
 <tr>
@@ -127,16 +84,43 @@
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+<div class="flex-container">
+<div class="flex-item-left">
+<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h4>€ 150,00 - kg. 11 (circa)</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<ul>
+<li>1 kg. macinata per sugo</li>
+<li>1 kg. lonza (per cotolette o scaloppine)</li>
+<li>1 kg. petti di pollo</li>
+<li>1 kg. pizzaiola o involtini</li>
+<li>1 kg. arrosto</li>
+<li>1 kg. bistecche</li>
+<li>1 kg. costate roastbeef</li>
+<li>1 kg. lesso o brasato</li>
+<li>1 kg. magatello vitellone</li>
+<li>1 kg. svizzere</li>
+<li>1 kg. salsiccia</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="flex-item-right">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 99.8575%;">
-<h4>€ 200,00 - kg. 18 (circa)</h4>
+<h4>€ 200,00 - kg. 18 (circa)</h4>
 </td>
 </tr>
 <tr>
@@ -173,7 +157,7 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/9/santarita_spiedino.jpg" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-02T17:15:59+01:00</updated>
+        <updated>2023-11-05T17:45:24+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/9/santarita_spiedino.jpg" alt="" />
@@ -184,22 +168,17 @@
             <![CDATA[
                     <p><img src="https://santarita-it.pages.dev/media/posts/9/santarita_spiedino.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Proponiamo un' <strong>offerta mista risparmio.</strong></p>
-<div class="duecolonne">
-<div class="layout">
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+<div class="flex-container">
+<div class="flex-item-left">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;">
-<h4> </h4>
-</td>
-</tr>
-<tr>
-<td style="width: 100%;">
+<td style="width: 99.8575%;">
 <h3>Tutto a € 17,00</h3>
 </td>
 </tr>
 <tr>
-<td style="width: 100%;">
+<td style="width: 99.8575%;">
 <ul>
 <li>½kg. macinata</li>
 <li>n° 4 svizzere</li>
@@ -210,13 +189,10 @@
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+</div>
+<div class="flex-item-center">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 28,00</h3>
@@ -237,16 +213,9 @@
 </tbody>
 </table>
 </div>
-</div>
-<div class="duecolonne">
-<div class="layout">
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+<div class="flex-item-right">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 45,00</h3>
@@ -266,13 +235,12 @@
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+</div>
+</div>
+<div class="flex-container">
+<div class="flex-item-left">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 60,00</h3>
@@ -293,16 +261,9 @@
 </tbody>
 </table>
 </div>
-</div>
-<div class="duecolonne">
-<div class="layout">
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+<div class="flex-item-center">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 48,00</h3>
@@ -319,19 +280,15 @@
 <li>8 etti macinata</li>
 <li>6 etti scaloppine/cotolette</li>
 <li>1 coscia pollo</li>
-<li> </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
+</div>
+<div class="flex-item-right">
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 63,00</h3>
@@ -369,7 +326,7 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-02T17:12:44+01:00</updated>
+        <updated>2023-11-05T17:13:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" alt="" />
@@ -380,15 +337,10 @@
             <![CDATA[
                     <p><img src="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Proponiamo un' <strong>offerta risparmio per la grigliata.</strong></p>
-<div class="duecolonne">
-<div class="layout">
+<div class="flex-container">
+<div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 100%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 100%;">
 <h3>Tutto a € 4,00</h3>
@@ -405,13 +357,10 @@
 </tr>
 </tbody>
 </table>
+</div>
+<div class="flex-item-center">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 4,00</h3>
@@ -429,16 +378,9 @@
 </tbody>
 </table>
 </div>
-</div>
-<div class="duecolonne">
-<div class="layout">
+<div class="flex-item-right">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 4,50</h3>
@@ -456,13 +398,12 @@
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+<div class="flex-container">
+<div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 5,50</h3>
@@ -482,16 +423,9 @@
 </tbody>
 </table>
 </div>
-</div>
-<div class="duecolonne">
-<div class="layout">
+<div class="flex-item-center">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 6,50</h3>
@@ -509,13 +443,10 @@
 </tr>
 </tbody>
 </table>
+</div>
+<div class="flex-item-right">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
 <tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h4> </h4>
-</td>
-</tr>
 <tr>
 <td style="width: 99.8575%;">
 <h3>Tutto a € 10,00</h3>
@@ -700,7 +631,7 @@
         <link href="https://santarita-it.pages.dev/listino-2.html"/>
         <id>https://santarita-it.pages.dev/listino-2.html</id>
 
-        <updated>2023-11-02T17:23:38+01:00</updated>
+        <updated>2023-11-05T17:02:22+01:00</updated>
             <summary>
                 <![CDATA[
                     Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate € 19,90 roastbeef pezzo intero € 19,90 roastbeef a fette € 21,90 polpa scelta pezzo intero € 17,90 polpa scelta a fette € 18,90 filetto&hellip;
@@ -708,316 +639,511 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="duecolonne">
-<div class="layout">
-<table class="align-left" style="border-collapse: collapse; width: 90%; border-color: #ffffff; border-style: none;">
+                <div class="flex-container">
+<div class="flex-item-left">
+<h3 class="align-center"><strong>Manzo</strong></h3>
+<table class="align-left" style="border-collapse: collapse; width: 98%; border-color: #ffffff; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 49.9288%;">
-<h2><strong>Manzo</strong></h2>
-</td>
-<td style="width: 49.9288%;"> </td>
+<td style="width: 67.6902%;">magatello</td>
+<td style="width: 32.3166%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">magatello</td>
-<td style="width: 49.9288%;">€ 17,90</td>
+<td style="width: 67.6902%;">muscolo</td>
+<td style="width: 32.3166%;">€ 12,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">muscolo</td>
-<td style="width: 49.9288%;">€ 12,90</td>
+<td style="width: 67.6902%;">hamburger cad.</td>
+<td style="width: 32.3166%;">€ 1,00</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">hamburger cad.</td>
-<td style="width: 49.9288%;">€ 1,00</td>
+<td style="width: 67.6902%;">ossi buchi</td>
+<td style="width: 32.3166%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">ossi buchi</td>
-<td style="width: 49.9288%;">€ 9,90</td>
+<td style="width: 67.6902%;">polpa famiglia</td>
+<td style="width: 32.3166%;">€ 11,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa famiglia</td>
-<td style="width: 49.9288%;">€ 11,90</td>
+<td style="width: 67.6902%;">costate</td>
+<td style="width: 32.3166%;">€ 19,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">costate</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.6902%;">roastbeef pezzo intero</td>
+<td style="width: 32.3166%;">€ 19,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">roastbeef pezzo intero</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.6902%;">roastbeef a fette</td>
+<td style="width: 32.3166%;">€ 21,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">roastbeef a fette</td>
-<td style="width: 49.9288%;">€ 21,90</td>
+<td style="width: 67.6902%;">polpa scelta pezzo intero</td>
+<td style="width: 32.3166%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa scelta pezzo intero</td>
-<td style="width: 49.9288%;">€ 17,90</td>
+<td style="width: 67.6902%;">polpa scelta a fette</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa scelta a fette</td>
-<td style="width: 49.9288%;">€ 18,90</td>
+<td style="width: 67.6902%;">filetto pezzo intero</td>
+<td style="width: 32.3166%;">€ 29,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">filetto pezzo intero</td>
-<td style="width: 49.9288%;">€ 29,90</td>
+<td style="width: 67.6902%;">filetto a fette</td>
+<td style="width: 32.3166%;">€ 29,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">filetto a fette</td>
-<td style="width: 49.9288%;">€ 29,90</td>
+<td style="width: 67.6902%;">scamone pezzo intero</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">scamone pezzo intero</td>
-<td style="width: 49.9288%;">€ 18,90</td>
+<td style="width: 67.6902%;">scamone a fette</td>
+<td style="width: 32.3166%;">€ 19,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">scamone a fette</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.6902%;">macinata per sugo</td>
+<td style="width: 32.3166%;">€ 7,90</td>
+</tr>
+<tr>
+<td style="width: 67.6902%;">cotolette/pizzaiola</td>
+<td style="width: 32.3166%;">€ 17,90</td>
+</tr>
+<tr>
+<td style="width: 67.6902%;">spinaccino/pesc/fusello</td>
+<td style="width: 32.3166%;">€ 13,90</td>
+</tr>
+<tr>
+<td style="width: 67.6902%;">fiorentine</td>
+<td style="width: 32.3166%;">€ 19,90</td>
+</tr>
+<tr>
+<td style="width: 67.6902%;">spezzatino</td>
+<td style="width: 32.3166%;">€ 12,90</td>
+</tr>
+<tr>
+<td style="width: 67.6902%;">sottofesa</td>
+<td style="width: 32.3166%;">€ 17,90</td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 90%; height: 90%; border-color: #ffffff; border-style: none;">
+</div>
+<div class="flex-item-center">
+<h3 class="align-center"><strong>Vitello</strong></h3>
+<table style="border-collapse: collapse; width: 98%; height: 100%; border-color: #ffffff; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 50.0161%;">
-<h2>Vitello</h2>
-</td>
-<td style="width: 50.0161%;"> </td>
+<td style="width: 68.2725%;">filetto p.int.</td>
+<td style="width: 31.7343%;">€ 25,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">filetto p.int.</td>
-<td style="width: 50.0161%;">€ 25,90</td>
+<td style="width: 68.2725%;">nodini</td>
+<td style="width: 31.7343%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">nodini</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.2725%;">ossi buchi</td>
+<td style="width: 31.7343%;">€ 16,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">ossi buchi</td>
-<td style="width: 50.0161%;">€ 16,90</td>
+<td style="width: 68.2725%;">arrosto reale</td>
+<td style="width: 31.7343%;">€ 15,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">arrosto reale</td>
-<td style="width: 50.0161%;">€ 15,90</td>
+<td style="width: 68.2725%;">pesce/spinaccino</td>
+<td style="width: 31.7343%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">pesce/spinaccino</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.2725%;">fusello/cap prete</td>
+<td style="width: 31.7343%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fusello/cap prete</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.2725%;">fesa scelta pezzo intero</td>
+<td style="width: 31.7343%;">€ 19,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fesa scelta pezzo intero</td>
-<td style="width: 50.0161%;">€ 19,90</td>
+<td style="width: 68.2725%;">fesa scelta a fette</td>
+<td style="width: 31.7343%;">€ 20,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fesa scelta a fette</td>
-<td style="width: 50.0161%;">€ 20,90</td>
+<td style="width: 68.2725%;">spalla</td>
+<td style="width: 31.7343%;">€ 16,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">spalla</td>
-<td style="width: 50.0161%;">€ 16,90</td>
+<td style="width: 68.2725%;">punta con osso</td>
+<td style="width: 31.7343%;">€ 8,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">punta con osso</td>
-<td style="width: 50.0161%;">€ 8,90</td>
+<td style="width: 68.2725%;">punta arrotolata</td>
+<td style="width: 31.7343%;">€ 10,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">punta arrotolata</td>
-<td style="width: 50.0161%;">€ 10,90</td>
+<td style="width: 68.2725%;">sottofesa</td>
+<td style="width: 31.7343%;">€ 17,90</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="flex-item-right">
+<h3 class="align-center"><strong>Suino</strong></h3>
+<table class="align-left" style="border-collapse: collapse; width: 98%; border-color: #ffffff; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 68.482%;">braciole</td>
+<td style="width: 31.5345%;">€ 7,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">sottofesa</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.482%;">lonza pezzo intero</td>
+<td style="width: 31.5345%;">€ 9,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">lonza a fette</td>
+<td style="width: 31.5345%;">€ 9,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">arrosto</td>
+<td style="width: 31.5345%;">€ 9,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">stinchi suino</td>
+<td style="width: 31.5345%;">€ 4,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">filetto suino</td>
+<td style="width: 31.5345%;">€ 9,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">piedini suino</td>
+<td style="width: 31.5345%;">€ 3,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">cotenne suino</td>
+<td style="width: 31.5345%;">€ 3,90</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">puntine suino</td>
+<td style="width: 31.5345%;">-</td>
+</tr>
+<tr>
+<td style="width: 68.482%;">spiedini</td>
+<td style="width: 31.5345%;">€ 9,90</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
-<p>kk</p>
-<div class="duecolonne">
-<div class="layout">
-<table class="align-left" style="border-collapse: collapse; width: 90%; border-color: #ffffff; border-style: none;">
+<div class="flex-container">
+<div class="flex-item-left">
+<h3 class="align-center"><strong>Polleria</strong></h3>
+<table class="align-left" style="border-collapse: collapse; width: 98%; border-color: #ffffff; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 49.9288%;">
-<h2><strong>Manzo</strong></h2>
-</td>
-<td style="width: 49.9288%;"> </td>
+<td style="width: 67.7288%;">ali di pollo</td>
+<td style="width: 32.2876%;">€ 3,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">magatello</td>
-<td style="width: 49.9288%;">€ 17,90</td>
+<td style="width: 67.7288%;">polli novelli</td>
+<td style="width: 32.2876%;">€ 4,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">muscolo</td>
-<td style="width: 49.9288%;">€ 12,90</td>
+<td style="width: 67.7288%;">conigli</td>
+<td style="width: 32.2876%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">hamburger cad.</td>
-<td style="width: 49.9288%;">€ 1,00</td>
+<td style="width: 67.7288%;">filetto pollo extra intero</td>
+<td style="width: 32.2876%;">€ 10,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">ossi buchi</td>
-<td style="width: 49.9288%;">€ 9,90</td>
+<td style="width: 67.7288%;">fesa tacchino intera</td>
+<td style="width: 32.2876%;">€ 10,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa famiglia</td>
-<td style="width: 49.9288%;">€ 11,90</td>
+<td style="width: 67.7288%;">petti pollo fette</td>
+<td style="width: 32.2876%;">€ 11,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">costate</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.7288%;">fesa tacchino fette</td>
+<td style="width: 32.2876%;">€ 12,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">roastbeef pezzo intero</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.7288%;">faraone</td>
+<td style="width: 32.2876%;">€ 8,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">roastbeef a fette</td>
-<td style="width: 49.9288%;">€ 21,90</td>
+<td style="width: 67.7288%;">cosce pollo</td>
+<td style="width: 32.2876%;">€ 4,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa scelta pezzo intero</td>
-<td style="width: 49.9288%;">€ 17,90</td>
+<td style="width: 67.7288%;">galline a busto</td>
+<td style="width: 32.2876%;">€ 4,90</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;">polpa scelta a fette</td>
-<td style="width: 49.9288%;">€ 18,90</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">filetto pezzo intero</td>
-<td style="width: 49.9288%;">€ 29,90</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">filetto a fette</td>
-<td style="width: 49.9288%;">€ 29,90</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">scamone pezzo intero</td>
-<td style="width: 49.9288%;">€ 18,90</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">scamone a fette</td>
-<td style="width: 49.9288%;">€ 19,90</td>
+<td style="width: 67.7288%;">coscette pollo</td>
+<td style="width: 32.2876%;">€ 7,90</td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 90%; height: 90%; border-color: #ffffff; border-style: none;">
+</div>
+<div class="flex-item-center">
+<h3 class="align-center"><strong>Frattaglie</strong></h3>
+<table style="border-collapse: collapse; width: 98%; height: 100%; border-color: #ffffff; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 50.0161%;">
-<h2>Vitello</h2>
-</td>
-<td style="width: 50.0161%;"> </td>
+<td style="width: 68.3295%;">lingua fresca</td>
+<td style="width: 31.6869%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">filetto p.int.</td>
-<td style="width: 50.0161%;">€ 25,90</td>
+<td style="width: 68.3295%;">lingua salmistrata</td>
+<td style="width: 31.6869%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">nodini</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.3295%;">coda manzo</td>
+<td style="width: 31.6869%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">ossi buchi</td>
-<td style="width: 50.0161%;">€ 16,90</td>
+<td style="width: 68.3295%;">trippa mista</td>
+<td style="width: 31.6869%;">€ 6,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">arrosto reale</td>
-<td style="width: 50.0161%;">€ 15,90</td>
+<td style="width: 68.3295%;">reni manzo</td>
+<td style="width: 31.6869%;">€ 6,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">pesce/spinaccino</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.3295%;">reni vitello</td>
+<td style="width: 31.6869%;">€ 13,00</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fusello/cap prete</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.3295%;">cuore manzo</td>
+<td style="width: 31.6869%;">€ 7,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fesa scelta pezzo intero</td>
-<td style="width: 50.0161%;">€ 19,90</td>
+<td style="width: 68.3295%;">guance</td>
+<td style="width: 31.6869%;">€ 12,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">fesa scelta a fette</td>
-<td style="width: 50.0161%;">€ 20,90</td>
+<td style="width: 68.3295%;">fegato vitellone</td>
+<td style="width: 31.6869%;">€ 7,90</td>
 </tr>
 <tr>
-<td style="width: 50.0161%;">spalla</td>
-<td style="width: 50.0161%;">€ 16,90</td>
-</tr>
-<tr>
-<td style="width: 50.0161%;">punta con osso</td>
-<td style="width: 50.0161%;">€ 8,90</td>
-</tr>
-<tr>
-<td style="width: 50.0161%;">punta arrotolata</td>
-<td style="width: 50.0161%;">€ 10,90</td>
-</tr>
-<tr>
-<td style="width: 50.0161%;">sottofesa</td>
-<td style="width: 50.0161%;">€ 17,90</td>
+<td style="width: 68.3295%;">fegato vitello</td>
+<td style="width: 31.6869%;">€ 17,90</td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 90%; height: 90%; border-color: #ffffff; border-style: none;">
+</div>
+<div class="flex-item-right">
+<h3 class="align-center"><strong>Salumi in trancio al Kg</strong></h3>
+<table class="align-left" style="border-collapse: collapse; width: 98%; border-color: #ffffff; border-style: none;">
 <tbody>
 <tr>
-<td style="width: 50.0954%;">
-<h2>Suino</h2>
-</td>
-<td style="width: 49.9368%;"> </td>
+<td style="width: 68.4797%;">cotechini</td>
+<td style="width: 31.5367%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">braciole</td>
-<td style="width: 49.9368%;">€ 7,90</td>
+<td style="width: 68.4797%;">salamelle</td>
+<td style="width: 31.5367%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">lonza pezzo intero</td>
-<td style="width: 49.9368%;">€ 9,90</td>
+<td style="width: 68.4797%;">salame</td>
+<td style="width: 31.5367%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">lonza a fette</td>
-<td style="width: 49.9368%;">€ 9,90</td>
+<td style="width: 68.4797%;">salamelle stagionate</td>
+<td style="width: 31.5367%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">arrosto</td>
-<td style="width: 49.9368%;">€ 9,90</td>
+<td style="width: 68.4797%;">salsiccia</td>
+<td style="width: 31.5367%;">€ 9,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">stinchi suino</td>
-<td style="width: 49.9368%;">€ 4,90</td>
+<td style="width: 68.4797%;">pancetta legata</td>
+<td style="width: 31.5367%;">€ 14,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">filetto suino</td>
-<td style="width: 49.9368%;">€ 9,90</td>
+<td style="width: 68.4797%;">coppa - spek</td>
+<td style="width: 31.5367%;">€ 18,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">piedini suino</td>
-<td style="width: 49.9368%;">€ 3,90</td>
+<td style="width: 68.4797%;">prosciutto cotto</td>
+<td style="width: 31.5367%;">€ 11,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">cotenne suino</td>
-<td style="width: 49.9368%;">€ 3,90</td>
+<td style="width: 68.4797%;">prosc. crudo dis.</td>
+<td style="width: 31.5367%;">€ 17,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">puntine suino</td>
-<td style="width: 49.9368%;">-</td>
+<td style="width: 68.4797%;">bresaola</td>
+<td style="width: 31.5367%;">€ 25,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">spiedini</td>
-<td style="width: 49.9368%;">€ 9,90</td>
+<td style="width: 68.4797%;">bologna</td>
+<td style="width: 31.5367%;">€ 7,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">punta arrotolata</td>
-<td style="width: 49.9368%;">€ 10,90</td>
+<td style="width: 68.4797%;">salame cotto</td>
+<td style="width: 31.5367%;">€ 12,90</td>
 </tr>
 <tr>
-<td style="width: 50.0954%;">sottofesa</td>
-<td style="width: 49.9368%;">€ 17,90</td>
+<td style="width: 68.4797%;">pancetta affumicata</td>
+<td style="width: 31.5367%;">€ 16,90</td>
+</tr>
+<tr>
+<td style="width: 68.4797%;">fesa tacchino</td>
+<td style="width: 31.5367%;">€ 15,90</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="flex-container">
+<div class="flex-item-left">
+<h3 class="align-center"><strong>Salumi in buste affettate all'etto</strong></h3>
+<table class="align-left" style="border-collapse: collapse; width: 98%; border-color: #ffffff; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 67.7288%;">bologna</td>
+<td style="width: 32.2876%;">€ 1,49</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">salame cotto</td>
+<td style="width: 32.2876%;">€ 1,99</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">prosciutto cotto</td>
+<td style="width: 32.2876%;">€ 2,19</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">pancetta legata</td>
+<td style="width: 32.2876%;">€ 2,19</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">spianata</td>
+<td style="width: 32.2876%;">€ 2,19</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">pancetta affumicata</td>
+<td style="width: 32.2876%;">€ 2,79</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">porchetta</td>
+<td style="width: 32.2876%;">€ 2,29</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">salame</td>
+<td style="width: 32.2876%;">€ 2,29</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">fesa tacchino cotta</td>
+<td style="width: 32.2876%;">€ 2,29</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">lingua salmistrata</td>
+<td style="width: 32.2876%;">€ 2,29</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">pancetta coppata</td>
+<td style="width: 32.2876%;">€ 2,99</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">coppa stagionata</td>
+<td style="width: 32.2876%;">€ 3,19</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">spek</td>
+<td style="width: 32.2876%;">€ 2,59</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">roastbeef cotto</td>
+<td style="width: 32.2876%;">€ 2,99</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">prosciutto crudo</td>
+<td style="width: 32.2876%;">€ 3,69</td>
+</tr>
+<tr>
+<td style="width: 67.7288%;">bresaola</td>
+<td style="width: 32.2876%;">€ 3,99</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="flex-item-center">
+<h3 class="align-center"><strong>Latticini</strong></h3>
+<table style="border-collapse: collapse; width: 98%; height: 100%; border-color: #ffffff; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 68.3295%;">panna cad.</td>
+<td style="width: 31.6869%;">€ 1,20</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">sottilette cad.</td>
+<td style="width: 31.6869%;">€ 2,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">burro gr. 250 cad.</td>
+<td style="width: 31.6869%;">€ 2,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">edamer kg</td>
+<td style="width: 31.6869%;">€ 12,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">taleggio magro/grasso kg</td>
+<td style="width: 31.6869%;">€ 14,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">bergamino kg</td>
+<td style="width: 31.6869%;">€ 14,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">primo sale kg</td>
+<td style="width: 31.6869%;">€ 14,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">brie' kg</td>
+<td style="width: 31.6869%;">€ 14,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">emmenthal kg</td>
+<td style="width: 31.6869%;">€ 14,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">gorgonzola kg</td>
+<td style="width: 31.6869%;">€ 15,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">salva cremasco kg</td>
+<td style="width: 31.6869%;">€ 16,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">bastardo kg</td>
+<td style="width: 31.6869%;">€ 16,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">caciocavallo kg</td>
+<td style="width: 31.6869%;">€ 15,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">grana tipico Lodigiano kg</td>
+<td style="width: 31.6869%;">€ 13,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">rosa camuna kg</td>
+<td style="width: 31.6869%;">€ 18,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">pecorino toscano kg</td>
+<td style="width: 31.6869%;">€ 22,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">pecorino brigante kg</td>
+<td style="width: 31.6869%;">€ 22,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">scamorzone affumicato kg</td>
+<td style="width: 31.6869%;">€ 15,90</td>
+</tr>
+<tr>
+<td style="width: 68.3295%;">tomini cad.</td>
+<td style="width: 31.6869%;">€ 1,60</td>
 </tr>
 </tbody>
 </table>
