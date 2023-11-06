@@ -3,7 +3,7 @@
     <title>cascinasantarita</title>
     <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
     <link href="https://santarita-it.pages.dev" />
-    <updated>2023-11-06T13:59:45+01:00</updated>
+    <updated>2023-11-06T14:39:30+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -323,20 +323,21 @@
         </author>
         <link href="https://santarita-it.pages.dev/offerte-per-grigliata.html"/>
         <id>https://santarita-it.pages.dev/offerte-per-grigliata.html</id>
-        <media:content url="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" medium="image" />
+        <media:content url="https://santarita-it.pages.dev/media/posts/8/Offerte-per-grigliata.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-06T13:56:32+01:00</updated>
+        <updated>2023-11-06T14:39:30+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" alt="Offerte per grigliata" />
-                    Proponiamo un' offerta risparmio per la grigliata. Tutto a € 4,00 n° 1 salamella o salsiccia n° 1 braciola 2 pz.
+                        <img src="https://santarita-it.pages.dev/media/posts/8/Offerte-per-grigliata.webp" alt="Offerte per grigliata" />
+                    Sottotitolo relativo alla parola chiave Breve descrizione: Proponiamo un' offerta risparmio per la grigliata. Tutto a € 4,00 n° 1&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://santarita-it.pages.dev/media/posts/8/santarita_grigliata.jpg" class="type:primaryImage" alt="Offerte per grigliata" /></p>
-                <p>Proponiamo un' <strong>offerta risparmio per la grigliata.</strong></p>
+                    <p><img src="https://santarita-it.pages.dev/media/posts/8/Offerte-per-grigliata.webp" class="type:primaryImage" alt="Offerte per grigliata" /></p>
+                <h2>Sottotitolo relativo alla parola chiave</h2>
+<p>Breve descrizione: Proponiamo un' <strong>offerta risparmio per la grigliata.</strong></p>
 <div class="flex-container">
 <div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
