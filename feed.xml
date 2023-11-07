@@ -3,12 +3,41 @@
     <title>cascinasantarita</title>
     <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
     <link href="https://santarita-it.pages.dev" />
-    <updated>2023-11-06T14:39:30+01:00</updated>
+    <updated>2023-11-07T15:55:20+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
     <id>https://santarita-it.pages.dev</id>
 
+    <entry>
+        <title>Contatti</title>
+        <author>
+            <name>cascinasantarita</name>
+        </author>
+        <link href="https://santarita-it.pages.dev/contatti-2.html"/>
+        <id>https://santarita-it.pages.dev/contatti-2.html</id>
+
+        <updated>2023-11-06T17:20:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex-container">
+<div class="flex-item-left">
+<h2 id="agro-alimentare-santa-rita-srl">AGRO ALIMENTARE SANTA RITA s.r.l</h2>
+<p><br>Via Barni, 18/1<br>26010 Dovera (CR)</p>
+<p>Tel. 0373 94089<br>Cell. 333 7961024<br>Fax. 0373 978285<br><br>e-mail: <a href="mailto:info@cascinasantarita.it">info@cascinasantarita.it</a></p>
+</div>
+<div class="flex-item-right">
+<div class="post__iframe"><iframe width="800" height="600" style="border-width: 0px; border-style: initial;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5606.441430961442!2d9.513264!3d45.36454100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478131f05f15a60d%3A0xca8d37ea94a7ae8c!2sCascina%20Santa%20Rita!5e0!3m2!1sit!2sus!4v1696003512002!5m2!1sit!2sus" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Offerta risparmio</title>
         <author>
@@ -19,7 +48,7 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-06T13:56:07+01:00</updated>
+        <updated>2023-11-07T15:54:24+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/10/santarita_carne_fresca2.jpg" alt="offerta risparmio" />
@@ -326,7 +355,7 @@
         <media:content url="https://santarita-it.pages.dev/media/posts/8/Offerte-per-grigliata.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2023-11-06T14:39:30+01:00</updated>
+        <updated>2023-11-07T15:55:20+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://santarita-it.pages.dev/media/posts/8/Offerte-per-grigliata.webp" alt="Offerte per grigliata" />
@@ -561,38 +590,14 @@
         </content>
     </entry>
     <entry>
-        <title>test 3 colonne</title>
-        <author>
-            <name>cascinasantarita</name>
-        </author>
-        <link href="https://santarita-it.pages.dev/test-3-colonne.html"/>
-        <id>https://santarita-it.pages.dev/test-3-colonne.html</id>
-
-        <updated>2023-09-30T14:21:21+02:00</updated>
-            <summary>
-                <![CDATA[
-                    test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="flex-container">
-<div class="flex-items">test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 test colonna 1 </div>
-<div class="flex-items">test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  test colonna 2  </div>
-<div class="flex-items">test colonna 3 test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3test colonna 3  </div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contatti</title>
+        <title>Contatti ex</title>
         <author>
             <name>cascinasantarita</name>
         </author>
         <link href="https://santarita-it.pages.dev/contatti.html"/>
         <id>https://santarita-it.pages.dev/contatti.html</id>
 
-        <updated>2023-09-29T18:27:40+02:00</updated>
+        <updated>2023-11-06T17:18:03+01:00</updated>
             <summary>
                 <![CDATA[
                     AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;
@@ -625,14 +630,14 @@
         </content>
     </entry>
     <entry>
-        <title>Listino 2</title>
+        <title>Listino Prezzi</title>
         <author>
             <name>cascinasantarita</name>
         </author>
         <link href="https://santarita-it.pages.dev/listino-2.html"/>
         <id>https://santarita-it.pages.dev/listino-2.html</id>
 
-        <updated>2023-11-05T17:02:22+01:00</updated>
+        <updated>2023-11-06T17:17:28+01:00</updated>
             <summary>
                 <![CDATA[
                     Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00 ossi buchi € 9,90 polpa famiglia € 11,90 costate&hellip;
@@ -1150,183 +1155,6 @@
 </table>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Listino prezzi</title>
-        <author>
-            <name>cascinasantarita</name>
-        </author>
-        <link href="https://santarita-it.pages.dev/listino-prezzi.html"/>
-        <id>https://santarita-it.pages.dev/listino-prezzi.html</id>
-
-        <updated>2023-09-29T15:17:55+02:00</updated>
-            <summary>
-                <![CDATA[
-                    right
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    <div class="duecolonne">
-<br>  
-<br>  <div class="layout">
-<br>    <p class="col col-main">
-<br></p><h3>Manzo</h3><p class="col col-main"><br><br></p><table border="0" cellpadding="1" cellspacing="1">
-	<tbody>
-		<tr>
-			<td>magatello</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>muscolo</td>
-			<td>€ 12,90</td>
-		</tr>
-		<tr>
-			<td>hamburger cad.</td>
-			<td>€ 1,00</td>
-		</tr>
-		<tr>
-			<td>ossi buchi</td>
-			<td>€ 9,90</td>
-		</tr>
-		<tr>
-			<td>polpa famiglia</td>
-			<td>€ 11,90</td>
-		</tr>
-		<tr>
-			<td>costate</td>
-			<td>€ 19,90</td>
-		</tr>
-		<tr>
-			<td>roastbeef pezzo intero</td>
-			<td>€ 19,90</td>
-		</tr>
-		<tr>
-			<td>roastbeef a fette</td>
-			<td>€ 21,90</td>
-		</tr>
-		<tr>
-			<td>polpa scelta pezzo intero</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>polpa scelta a fette</td>
-			<td>€ 18,90</td>
-		</tr>
-		<tr>
-			<td>filetto pezzo intero</td>
-			<td>€ 29,90</td>
-		</tr>
-		<tr>
-			<td>filetto a fette</td>
-			<td>€ 29,90</td>
-		</tr>
-		<tr>
-			<td>scamone pezzo intero</td>
-			<td>€ 18,90</td>
-		</tr>
-		<tr>
-			<td>scamone a fette</td>
-			<td>€ 19,90</td>
-		</tr>
-		<tr>
-			<td>macinata per sugo</td>
-			<td>€ 7,90</td>
-		</tr>
-		<tr>
-			<td>cotolette/pizzaiola</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>spinaccino/pesc/fusello</td>
-			<td>€ 13,90</td>
-		</tr>
-		<tr>
-			<td>fiorentine</td>
-			<td>€ 19,90</td>
-		</tr>
-		<tr>
-			<td>spezzatino</td>
-			<td>€ 12,90</td>
-		</tr>
-		<tr>
-			<td>sottofesa</td>
-			<td>€ 17,90</td>
-		</tr>
-	</tbody>
-</table><p class="col col-main"><br></p><h3><br>
-<br>Salumi in trancio al Kg</h3><p class="col col-main"><br><br></p><table border="0" cellpadding="1" cellspacing="1">
-	<tbody>
-		<tr>
-			<td>cotechini</td>
-			<td>€ 9,90</td>
-		</tr>
-		<tr>
-			<td>salamelle</td>
-			<td>€ 9,90</td>
-		</tr>
-		<tr>
-			<td>salame</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>salamelle stagionate</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>salsiccia</td>
-			<td>€ 9,90</td>
-		</tr>
-		<tr>
-			<td>pancetta legata</td>
-			<td>€ 14,90</td>
-		</tr>
-		<tr>
-			<td>coppa - spek</td>
-			<td>€ 18,90</td>
-		</tr>
-		<tr>
-			<td>prosciutto cotto</td>
-			<td>€ 11,90</td>
-		</tr>
-		<tr>
-			<td>prosc. crudo dis.</td>
-			<td>€ 17,90</td>
-		</tr>
-		<tr>
-			<td>bresaola</td>
-			<td>€ 25,90</td>
-		</tr>
-		<tr>
-			<td>bologna</td>
-			<td>€ 7,90</td>
-		</tr>
-		<tr>
-			<td>salame cotto</td>
-			<td>€ 12,90</td>
-		</tr>
-		<tr>
-			<td>pancetta affumicata</td>
-			<td>€ 16,90</td>
-		</tr>
-		<tr>
-			<td>fesa tacchino</td>
-			<td>€ 15,90</td>
-		</tr>
-	</tbody>
-</table><p class="col col-main">
-<br> 
-<br>
-<br>    </p>
-<br>    <p class="col col-complementary" role="complementary">
-<br>      <strong>right</strong><br> 
-<br>    </p>  
-<br>  </div></div>
-  </p>
             ]]>
         </content>
     </entry>
