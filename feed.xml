@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>cascinasantarita</title>
-    <link href="https://santarita-it.pages.dev/feed.xml" rel="self" />
-    <link href="https://santarita-it.pages.dev" />
+    <link href="https://main.d361xsb4mnremc.amplifyapp.com/feed.xml" rel="self" />
+    <link href="https://main.d361xsb4mnremc.amplifyapp.com" />
     <updated>2024-01-30T16:38:56+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
-    <id>https://santarita-it.pages.dev</id>
+    <id>https://main.d361xsb4mnremc.amplifyapp.com</id>
 
     <entry>
         <title>Contatti</title>
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/contatti/"/>
-        <id>https://santarita-it.pages.dev/contatti/</id>
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/contatti/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/contatti/</id>
 
         <updated>2024-01-22T17:08:06+01:00</updated>
             <summary>
@@ -44,21 +44,21 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/offerta-risparmio/"/>
-        <id>https://santarita-it.pages.dev/offerta-risparmio/</id>
-        <media:content url="https://santarita-it.pages.dev/media/posts/10/chops-2809505_1920.webp" medium="image" />
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/offerta-risparmio/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/offerta-risparmio/</id>
+        <media:content url="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/10/chops-2809505_1920.webp" medium="image" />
             <category term="offerte"/>
 
         <updated>2024-01-22T17:05:23+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://santarita-it.pages.dev/media/posts/10/chops-2809505_1920.webp" alt="offerta risparmio" />
+                        <img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/10/chops-2809505_1920.webp" alt="offerta risparmio" />
                     Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://santarita-it.pages.dev/media/posts/10/chops-2809505_1920.webp" class="type:primaryImage" alt="offerta risparmio" /></p>
+                    <p><img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/10/chops-2809505_1920.webp" class="type:primaryImage" alt="offerta risparmio" /></p>
                 <p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>
 <div class="flex-container">
 <div class="flex-item-left">
@@ -182,21 +182,21 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/offerta-mista/"/>
-        <id>https://santarita-it.pages.dev/offerta-mista/</id>
-        <media:content url="https://santarita-it.pages.dev/media/posts/9/steak-2975323_1920.webp" medium="image" />
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/offerta-mista/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/offerta-mista/</id>
+        <media:content url="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/9/steak-2975323_1920.webp" medium="image" />
             <category term="offerte"/>
 
         <updated>2024-01-29T15:42:13+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://santarita-it.pages.dev/media/posts/9/steak-2975323_1920.webp" alt="Offerta mista" />
+                        <img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/9/steak-2975323_1920.webp" alt="Offerta mista" />
                     Proponiamo un' offerta mista risparmio. Tutto a € 17,00 ½kg. macinata n° 4 svizzere n° 4 braciole 4 etti salsiccia Tutto&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://santarita-it.pages.dev/media/posts/9/steak-2975323_1920.webp" class="type:primaryImage" alt="Offerta mista" /></p>
+                    <p><img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/9/steak-2975323_1920.webp" class="type:primaryImage" alt="Offerta mista" /></p>
                 <p>Proponiamo un' <strong>offerta mista risparmio.</strong></p>
 <div class="flex-container">
 <div class="flex-item-left">
@@ -351,21 +351,21 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/offerte-per-grigliata/"/>
-        <id>https://santarita-it.pages.dev/offerte-per-grigliata/</id>
-        <media:content url="https://santarita-it.pages.dev/media/posts/8/shish-kebab-2287508_1920.webp" medium="image" />
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/offerte-per-grigliata/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/offerte-per-grigliata/</id>
+        <media:content url="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/shish-kebab-2287508_1920.webp" medium="image" />
             <category term="offerte"/>
 
         <updated>2024-01-29T15:40:56+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://santarita-it.pages.dev/media/posts/8/shish-kebab-2287508_1920.webp" alt="Offerte per grigliata" />
+                        <img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/shish-kebab-2287508_1920.webp" alt="Offerte per grigliata" />
                     Offerta risparmio per la grigliata Proponiamo un' offerta risparmio per grigliata. La proposta comprende i nostri prodotti genuini che si&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://santarita-it.pages.dev/media/posts/8/shish-kebab-2287508_1920.webp" class="type:primaryImage" alt="Offerte per grigliata" /></p>
+                    <p><img src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/shish-kebab-2287508_1920.webp" class="type:primaryImage" alt="Offerte per grigliata" /></p>
                 <h2>Offerta risparmio per la grigliata</h2>
 <p>Proponiamo un' <strong>offerta risparmio per grigliata.<br></strong></p>
 <p>La proposta comprende i nostri prodotti genuini che si prestano per questo tipo di cottura: salamella o salsiccia braciola, puntine o coppa, ala di pollo doppia, fetta di petto di pollo, wurstel, spiedino, braciola, costata senz'osso, puntine e coppa.</p>
@@ -499,7 +499,7 @@
 </div>
 </div>
 <hr>
-<figure class="post__image"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/8/grigliata-2.webp" alt="" width="760" height="768" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-xs.webp 300w ,https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-sm.webp 480w ,https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-md.webp 768w ,https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-xl.webp 1200w ,https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-xxl.webp 1600w ,https://santarita-it.pages.dev/media/posts/8/responsive/grigliata-2-xxxl.webp 2560w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/grigliata-2.webp" alt="" width="760" height="768" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-xs.webp 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-sm.webp 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-md.webp 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-xl.webp 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-xxl.webp 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/8/responsive/grigliata-2-xxxl.webp 2560w"></figure>
             ]]>
         </content>
     </entry>
@@ -508,8 +508,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/home/"/>
-        <id>https://santarita-it.pages.dev/home/</id>
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/home/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/home/</id>
 
         <updated>2024-01-30T16:38:56+01:00</updated>
             <summary>
@@ -523,11 +523,11 @@
 <p> </p>
 <div class="flex-container">
 <div class="flex-item-left align-left">A pochi km da Milano, Lodi e Crema, immersa nel verde, trovate la cascina Santa Rita.<br>La nostra macelleria da 35 anni sul mercato effettua vendite al dettaglio e all’ingrosso (comunità, ristoranti, asili, bar e mense) di carni, salumi, formaggi e polleria.<br>Lo spaccio carni Santa Rita è un’azienda che si occupa della macellazione, lavorazione e commercio di carni fresche.</div>
-<div class="flex-item-right"><figure class="post__image"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/7/Cascina-santarita-aerea-3.webp" alt="" width="970" height="647" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-xs.webp 300w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-sm.webp 480w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-md.webp 768w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-xl.webp 1200w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-xxl.webp 1600w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-aerea-3-xxxl.webp 2560w"></figure></div>
+<div class="flex-item-right"><figure class="post__image"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/Cascina-santarita-aerea-3.webp" alt="" width="970" height="647" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-xs.webp 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-sm.webp 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-md.webp 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-xl.webp 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-xxl.webp 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-aerea-3-xxxl.webp 2560w"></figure></div>
 </div>
 <div class="flex-container">
 <div class="flex-item-left align-left">Parte del bestiame che macelliamo da destinare al nostro negozio proviene dalla nostra azienda agricola Bosia F.lli di Bascapè in provincia di Pavia e da altre cascine limitrofe. Su prenotazione è possibile ritirare la spesa confezionata secondo le vostre esigenze. Le ordinazioni possono essere effettuate telefonicamente, tramite fax o mail lasciandoci un vostro recapito telefonico.</div>
-<div class="flex-item-right"><figure class="post__image"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/7/Cascina-santarita-bancone.webp" alt="" width="970" height="362" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-xs.webp 300w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-sm.webp 480w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-md.webp 768w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-xl.webp 1200w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-xxl.webp 1600w ,https://santarita-it.pages.dev/media/posts/7/responsive/Cascina-santarita-bancone-xxxl.webp 2560w"></figure></div>
+<div class="flex-item-right"><figure class="post__image"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/Cascina-santarita-bancone.webp" alt="" width="970" height="362" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-xs.webp 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-sm.webp 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-md.webp 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-xl.webp 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-xxl.webp 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Cascina-santarita-bancone-xxxl.webp 2560w"></figure></div>
 </div>
 <div style="background-color: #fcefc7;">
 <div class="flex-container">
@@ -535,12 +535,12 @@
 <p><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer">Registrati gratuitamente per ricevere cashback ad ogni acquisto nei negozi fisici e online convenzionati myWorld.</a></p>
 </div>
 <div class="flex-item-right">
-<figure class="post__image post__image--center"><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/7/Official-LOGO-PARTNER-ORIZZONTALE.png" alt="" width="300" height="100" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xs.png 300w ,https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-sm.png 480w ,https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-md.png 768w ,https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xl.png 1200w ,https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxl.png 1600w ,https://santarita-it.pages.dev/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxxl.png 2560w"></figure></a></p>
+<figure class="post__image post__image--center"><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/Official-LOGO-PARTNER-ORIZZONTALE.png" alt="" width="300" height="100" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xs.png 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-sm.png 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-md.png 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xl.png 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxl.png 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxxl.png 2560w"></figure></a></p>
 </div>
 </div>
 </div>
 <div class="flex-container">
-<h2 class="flex-item-left align-left">Venite nel nostro negozio e troverete cortesia, genuinità ed un ottimo rapporto qualità/prezzo.<br><br><figure class="post__image post__image--center"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/7/team2.webp" alt="" width="1000" height="700" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/7/responsive/team2-xs.webp 300w ,https://santarita-it.pages.dev/media/posts/7/responsive/team2-sm.webp 480w ,https://santarita-it.pages.dev/media/posts/7/responsive/team2-md.webp 768w ,https://santarita-it.pages.dev/media/posts/7/responsive/team2-xl.webp 1200w ,https://santarita-it.pages.dev/media/posts/7/responsive/team2-xxl.webp 1600w ,https://santarita-it.pages.dev/media/posts/7/responsive/team2-xxxl.webp 2560w"></figure></h2>
+<h2 class="flex-item-left align-left">Venite nel nostro negozio e troverete cortesia, genuinità ed un ottimo rapporto qualità/prezzo.<br><br><figure class="post__image post__image--center"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/team2.webp" alt="" width="1000" height="700" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-xs.webp 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-sm.webp 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-md.webp 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-xl.webp 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-xxl.webp 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/7/responsive/team2-xxxl.webp 2560w"></figure></h2>
 <div class="flex-item-right align-center"><strong>Si accettano ticket:</strong><br>– PellegriniCard<br>– PassLunch<br>– Day<br>– Qui!<br>– Ristomat<br>– TicketGemeaz.<br>– Ticket Restaurant<br>– City time<br>– Buon Chef</div>
 </div>
 <p> </p>
@@ -552,8 +552,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/shop/"/>
-        <id>https://santarita-it.pages.dev/shop/</id>
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/shop/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/shop/</id>
 
         <updated>2024-01-26T17:16:14+01:00</updated>
             <summary>
@@ -568,7 +568,7 @@
 <p><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer">Registrati gratuitamente per ricevere cashback ad ogni acquisto nei negozi fisici e online convenzionati myWorld.</a></p>
 </div>
 <div class="flex-item-right">
-<figure class="post__image post__image--right"><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://santarita-it.pages.dev/media/posts/6/Official-LOGO-PARTNER-ORIZZONTALE.png" alt="" width="300" height="100" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xs.png 300w ,https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-sm.png 480w ,https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-md.png 768w ,https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xl.png 1200w ,https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxl.png 1600w ,https://santarita-it.pages.dev/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxxl.png 2560w"></figure></a></p>
+<figure class="post__image post__image--right"><a href="https://www.myworld.com/registration/partner/8012979" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/Official-LOGO-PARTNER-ORIZZONTALE.png" alt="" width="300" height="100" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xs.png 300w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-sm.png 480w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-md.png 768w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xl.png 1200w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxl.png 1600w ,https://main.d361xsb4mnremc.amplifyapp.com/media/posts/6/responsive/Official-LOGO-PARTNER-ORIZZONTALE-xxxl.png 2560w"></figure></a></p>
 </div>
 </div>
 <div class="flex-container">
@@ -616,8 +616,8 @@
         <author>
             <name>cascinasantarita</name>
         </author>
-        <link href="https://santarita-it.pages.dev/listino-prezzi/"/>
-        <id>https://santarita-it.pages.dev/listino-prezzi/</id>
+        <link href="https://main.d361xsb4mnremc.amplifyapp.com/listino-prezzi/"/>
+        <id>https://main.d361xsb4mnremc.amplifyapp.com/listino-prezzi/</id>
 
         <updated>2024-01-29T15:29:28+01:00</updated>
             <summary>
