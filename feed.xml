@@ -3,7 +3,7 @@
     <title>cascinasantarita</title>
     <link href="https://www.cascinasantarita.it/feed.xml" rel="self" />
     <link href="https://www.cascinasantarita.it" />
-    <updated>2024-02-01T13:46:16+01:00</updated>
+    <updated>2024-02-01T13:51:06+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -50,17 +50,18 @@
         <media:content url="https://www.cascinasantarita.it/media/posts/10/Offerta-risparmio.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2024-01-31T18:32:02+01:00</updated>
+        <updated>2024-02-01T13:51:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.cascinasantarita.it/media/posts/10/Offerta-risparmio.webp" alt="offerta risparmio Cascina Santa Rita" />
-                    Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi diversi a misura di famiglia. Da prenotare telefonicamente&hellip;
+                    Offerta risparmio e comodità per una scorta freezer Proponiamo un' offerta risparmio e comodità per una scorta freezer di pesi e importi&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.cascinasantarita.it/media/posts/10/Offerta-risparmio.webp" class="type:primaryImage" alt="offerta risparmio Cascina Santa Rita" /></p>
-                <p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>
+                <h2 class="align-center"><strong>Offerta risparmio e comodità per una scorta freezer</strong></h2>
+<p>Proponiamo un' <strong>offerta risparmio e comodità per una scorta freezer</strong> di pesi e importi diversi a misura di famiglia.<br>Da prenotare telefonicamente almeno un giorno prima del ritiro.</p>
 <div class="flex-container">
 <div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; height: 100%; border-style: hidden;" border="1">
@@ -188,7 +189,7 @@
         <media:content url="https://www.cascinasantarita.it/media/posts/9/Offerta-mista.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2024-01-31T18:35:11+01:00</updated>
+        <updated>2024-02-01T13:49:54+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.cascinasantarita.it/media/posts/9/Offerta-mista.webp" alt="Offerta mista Cascina Santa Rita" />
@@ -198,7 +199,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.cascinasantarita.it/media/posts/9/Offerta-mista.webp" class="type:primaryImage" alt="Offerta mista Cascina Santa Rita" /></p>
-                <p>Proponiamo un' <strong>offerta mista risparmio.</strong></p>
+                <h2>Proponiamo un' <strong>offerta mista risparmio.</strong></h2>
 <div class="flex-container">
 <div class="flex-item-left">
 <table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
