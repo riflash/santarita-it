@@ -3,7 +3,7 @@
     <title>cascinasantarita</title>
     <link href="https://www.cascinasantarita.it/feed.xml" rel="self" />
     <link href="https://www.cascinasantarita.it" />
-    <updated>2024-02-29T17:35:50+01:00</updated>
+    <updated>2024-03-07T14:27:50+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -641,10 +641,10 @@
         <link href="https://www.cascinasantarita.it/listino-prezzi/"/>
         <id>https://www.cascinasantarita.it/listino-prezzi/</id>
 
-        <updated>2024-02-29T17:35:50+01:00</updated>
+        <updated>2024-03-07T14:27:50+01:00</updated>
             <summary>
                 <![CDATA[
-                    Listino al dettaglio delle nostre carni, salumi e latticini. Manzo magatello € 17,90 muscolo € 12,90 hamburger cad. € 1,00&hellip;
+                    Listino al dettaglio delle nostre carni, salumi e latticini. Manzo magatello € 18,90 muscolo € 14,90 hamburger cad. € 1,00&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -657,11 +657,11 @@
 <tbody>
 <tr>
 <td style="width: 67.6902%;">magatello</td>
-<td style="width: 32.3166%;">€ 17,90</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">muscolo</td>
-<td style="width: 32.3166%;">€ 12,90</td>
+<td style="width: 32.3166%;">€ 14,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">hamburger cad.</td>
@@ -677,63 +677,63 @@
 </tr>
 <tr>
 <td style="width: 67.6902%;">costate</td>
-<td style="width: 32.3166%;">€ 19,90</td>
+<td style="width: 32.3166%;">€ 20,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">roastbeef pezzo intero</td>
-<td style="width: 32.3166%;">€ 19,90</td>
+<td style="width: 32.3166%;">€ 20,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">roastbeef a fette</td>
-<td style="width: 32.3166%;">€ 21,90</td>
+<td style="width: 32.3166%;">€ 22,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">polpa scelta pezzo intero</td>
-<td style="width: 32.3166%;">€ 17,90</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">polpa scelta a fette</td>
-<td style="width: 32.3166%;">€ 18,90</td>
+<td style="width: 32.3166%;">€ 19,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">filetto pezzo intero</td>
-<td style="width: 32.3166%;">€ 29,90</td>
+<td style="width: 32.3166%;">€ 31,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">filetto a fette</td>
-<td style="width: 32.3166%;">€ 29,90</td>
+<td style="width: 32.3166%;">€ 31,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">scamone pezzo intero</td>
-<td style="width: 32.3166%;">€ 18,90</td>
+<td style="width: 32.3166%;">€ 19,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">scamone a fette</td>
-<td style="width: 32.3166%;">€ 19,90</td>
+<td style="width: 32.3166%;">€ 20,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">macinata per sugo</td>
-<td style="width: 32.3166%;">€ 7,90</td>
+<td style="width: 32.3166%;">€ 8,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">cotolette/pizzaiola</td>
-<td style="width: 32.3166%;">€ 17,90</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">spinaccino/pesc/fusello</td>
-<td style="width: 32.3166%;">€ 13,90</td>
+<td style="width: 32.3166%;">€ 14,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">fiorentine</td>
-<td style="width: 32.3166%;">€ 19,90</td>
+<td style="width: 32.3166%;">€ 20,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">spezzatino</td>
-<td style="width: 32.3166%;">€ 12,90</td>
+<td style="width: 32.3166%;">€ 14,90</td>
 </tr>
 <tr>
 <td style="width: 67.6902%;">sottofesa</td>
-<td style="width: 32.3166%;">€ 17,90</td>
+<td style="width: 32.3166%;">€ 18,90</td>
 </tr>
 </tbody>
 </table>
@@ -748,7 +748,7 @@
 </tr>
 <tr>
 <td style="width: 68.2725%;">nodini</td>
-<td style="width: 31.7343%;">€ 17,90</td>
+<td style="width: 31.7343%;">€ 19,90</td>
 </tr>
 <tr>
 <td style="width: 68.2725%;">ossi buchi</td>
@@ -914,10 +914,6 @@
 <td style="width: 31.6869%;">€ 6,90</td>
 </tr>
 <tr>
-<td style="width: 68.3295%;">reni manzo</td>
-<td style="width: 31.6869%;">€ 6,90</td>
-</tr>
-<tr>
 <td style="width: 68.3295%;">reni vitello</td>
 <td style="width: 31.6869%;">€ 13,00</td>
 </tr>
@@ -954,11 +950,11 @@
 </tr>
 <tr>
 <td style="width: 68.4797%;">salame</td>
-<td style="width: 31.5367%;">€ 17,90</td>
+<td style="width: 31.5367%;">€ 18,90</td>
 </tr>
 <tr>
 <td style="width: 68.4797%;">salamelle stagionate</td>
-<td style="width: 31.5367%;">€ 17,90</td>
+<td style="width: 31.5367%;">€ 18,90</td>
 </tr>
 <tr>
 <td style="width: 68.4797%;">salsiccia</td>
