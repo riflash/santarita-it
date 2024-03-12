@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>cascinasantarita</title>
+    <title>cascinasantarita-git</title>
     <link href="https://www.cascinasantarita.it/feed.xml" rel="self" />
     <link href="https://www.cascinasantarita.it" />
-    <updated>2024-03-07T14:57:25+01:00</updated>
+    <updated>2024-03-12T14:22:27+01:00</updated>
     <author>
         <name>cascinasantarita</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.cascinasantarita.it/informativa-sulla-privacy/"/>
         <id>https://www.cascinasantarita.it/informativa-sulla-privacy/</id>
 
-        <updated>2024-02-07T14:55:54+01:00</updated>
+        <updated>2024-02-06T18:36:16+01:00</updated>
             <summary>
                 <![CDATA[
                     Il regolamento generale sulla protezione dei dati (o in breve GDPR) è un passo positivo verso le persone per avere&hellip;
@@ -81,10 +81,10 @@
         <link href="https://www.cascinasantarita.it/contatti/"/>
         <id>https://www.cascinasantarita.it/contatti/</id>
 
-        <updated>2024-02-01T13:46:16+01:00</updated>
+        <updated>2023-11-06T17:19:09+01:00</updated>
             <summary>
                 <![CDATA[
-                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) Tel. 0373 94089 Cell. 333 7961024 Fax. 0373 978285&hellip;
+                    AGRO ALIMENTARE SANTA RITA s.r.l Via Barni, 18/1 26010 Dovera (CR) - Tel. 0373 94089 Cell. 333 7961024 Fax. 0373&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -92,7 +92,7 @@
                 <div class="flex-container">
 <div class="flex-item-left">
 <h2 id="agro-alimentare-santa-rita-srl">AGRO ALIMENTARE SANTA RITA s.r.l</h2>
-<p><br>Via Barni, 18/1<br>26010 Dovera (CR)</p>
+<p><br>Via Barni, 18/1<br>26010 Dovera (CR) -</p>
 <p>Tel. 0373 94089<br>Cell. 333 7961024<br>Fax. 0373 978285<br><br>e-mail: <span style="color: #000000;"><a href="mailto:info@cascinasantarita.it" style="color: #000000;">info@cascinasantarita.it</a></span></p>
 </div>
 <div class="flex-item-right">
@@ -114,7 +114,7 @@
         <media:content url="https://www.cascinasantarita.it/media/posts/10/Offerta-risparmio.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2024-02-01T13:56:06+01:00</updated>
+        <updated>2023-11-01T15:17:58+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.cascinasantarita.it/media/posts/10/Offerta-risparmio.webp" alt="offerta risparmio Cascina Santa Rita" />
@@ -253,7 +253,7 @@
         <media:content url="https://www.cascinasantarita.it/media/posts/9/Offerta-mista.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2024-02-01T13:49:54+01:00</updated>
+        <updated>2023-11-01T15:17:09+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.cascinasantarita.it/media/posts/9/Offerta-mista.webp" alt="Offerta mista Cascina Santa Rita" />
@@ -422,7 +422,7 @@
         <media:content url="https://www.cascinasantarita.it/media/posts/8/Offerte-per-grigliata.webp" medium="image" />
             <category term="offerte"/>
 
-        <updated>2024-01-31T18:37:12+01:00</updated>
+        <updated>2023-11-01T15:14:39+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.cascinasantarita.it/media/posts/8/Offerte-per-grigliata.webp" alt="Offerte per grigliata Cascina Santa Rita" />
@@ -577,7 +577,7 @@
         <link href="https://www.cascinasantarita.it/shop/"/>
         <id>https://www.cascinasantarita.it/shop/</id>
 
-        <updated>2024-02-01T15:50:47+01:00</updated>
+        <updated>2023-10-31T13:25:21+01:00</updated>
             <summary>
                 <![CDATA[
                     Registrati gratuitamente per ricevere cashback ad ogni acquisto nei negozi fisici e online convenzionati myWorld.
@@ -641,7 +641,7 @@
         <link href="https://www.cascinasantarita.it/listino-prezzi/"/>
         <id>https://www.cascinasantarita.it/listino-prezzi/</id>
 
-        <updated>2024-03-07T14:57:25+01:00</updated>
+        <updated>2023-09-29T15:20:55+02:00</updated>
             <summary>
                 <![CDATA[
                     Listino al dettaglio delle nostre carni, salumi e latticini. Manzo magatello € 18,90 muscolo € 14,90 hamburger cad. € 1,00&hellip;
